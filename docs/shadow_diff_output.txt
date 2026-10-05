@@ -1,0 +1,7 @@
+{
+  "n_requests": 250000,
+  "n_flagged_divergent": 0,
+  "pct_requests_with_divergent_ordering": 0.0,
+  "fast_and_reference_agree_on_every_request": true,
+  "n_mismatched_requests": 0
+}

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+*.egg-info/
+# regenerate with: venv/Scripts/python.exe scripts/build_and_train.py
+artifacts/
+*.class
+export/

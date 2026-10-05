@@ -1,0 +1,16 @@
+{
+  "ndcg": {
+    "n_query_users": 2000,
+    "mean_candidates_per_request": 2000.0,
+    "mean_pre_ranker_survivors_per_request": 200.0,
+    "mean_cascade_ndcg_at_10": 0.6736990773114194,
+    "mean_baseline_full_reranker_ndcg_at_10": 0.6838828113416983,
+    "pct_of_baseline_ndcg_held": 98.51
+  },
+  "compute": {
+    "repeats": 500,
+    "mean_baseline_seconds_per_request": 0.004364120600861497,
+    "mean_cascade_seconds_per_request": 0.0006321804008330218,
+    "pct_ranking_compute_cut": 85.51
+  }
+}

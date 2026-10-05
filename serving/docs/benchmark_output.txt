@@ -1,0 +1,8 @@
+loaded 50 benchmark requests
+threads=8
+duration_seconds=10
+total_requests=7597
+qps=758.0048510115373
+p50_ms=10.2485
+p99_ms=16.1195
+max_ms=152.2367
